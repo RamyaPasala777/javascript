@@ -1,0 +1,10 @@
+---
+applications:
+- name: myapp
+  random-route: true
+ 
+  memory: 1024MB
+  buildpacks:
+  - nodejs_buildpack
+  instances: 1
+  services: []

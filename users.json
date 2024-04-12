@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 29,
+      "email": "alice@example.com",
+      "address": "123 Main St, Cityville"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 35,
+      "email": "bob@example.com",
+      "address": "456 Elm St, Townsville"
+    },
+    {
+      "id": 2,
+      "name": "devj",
+      "age": 35,
+      "email": "bob@example.com",
+      "address": "456 Elm St, Townsville"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 42,
+      "email": "charlie@example.com",
+      "address": "789 Oak Ave, Villageton"
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "age": 28,
+      "email": "david@example.com",
+      "address": "101 Pine Rd, Countryside"
+    },
+    {
+      "id": 5,
+      "name": "Eve",
+      "age": 31,
+      "email": "eve@example.com",
+      "address": "222 Maple Ln, Suburbia"
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "age": 39,
+      "email": "frank@example.com",
+      "address": "333 Cedar Dr, Urbanville"
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "age": 24,
+      "email": "grace@example.com",
+      "address": "444 Birch Ct, Metropolis"
+    },
+    {
+      "id": 8,
+      "name": "Helen",
+      "age": 27,
+      "email": "helen@example.com",
+      "address": "555 Willow Ave, Downtown"
+    },
+    {
+      "id": 9,
+      "name": "Ian",
+      "age": 33,
+      "email": "ian@example.com",
+      "address": "666 Oak St, City Center"
+    },
+    {
+      "id": 10,
+      "name": "Jane",
+      "age": 36,
+      "email": "jane@example.com",
+      "address": "777 Elm Ave, Riverside"
+    }
+  ]
+  
